@@ -1,3 +1,3 @@
 # Products
 ## Codenames
-* [CompanyCentral]](/CompanyCentral) -  ERP
+* [CompanyCentral](/CompanyCentral) -  ERP
